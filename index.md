@@ -6,7 +6,7 @@ layout: default
 
 ## About me 
 
-Hello, my name Elizabeth! I am a second year PhD student in the English Department at the University of Miami. My research interests include digital humanities, queer studies, and American Studies.
+Hello, my name Elizabeth! I am a second year PhD student in the English Department at the University of Miami. My research interests include digital humanities, queer studies, and American Studies. I'm also an instructor of first year writing composition.
 
 ## Contact information
 Elizabeth Cornick ([email](emc988@miami.edu)).
