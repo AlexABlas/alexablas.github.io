@@ -6,7 +6,7 @@ layout: default
 
 ## About me 
 
-Hello, my name Alexandra! I am a fifth year PhD student in the Spanish & Portuguese Department at the University of Pittsburgh. My research interests include queer studies, Transpacific Studies, and fan cultures.
+Hello, my name Alexandra! I am a fifth year PhD student in the Spanish & Portuguese Department at the University of Pittsburgh, and doing a certificate in Latin American Studies, Film & Media, and Gender & Sexualities. My research interests include queer studies, Transpacific Studies, and fan cultures.
 
 ## Contact information
 Contact me at [maa485@pitt.edu](maa485@pitt.edu).
@@ -15,7 +15,7 @@ Contact me at [maa485@pitt.edu](maa485@pitt.edu).
 
 - University of Pittsburgh, PhD in Progress
 - University of Pittsburgh, M.A.
-- Pontificia Universidad Católica dle Perú, BA
+- Pontificia Universidad Católica del Perú, BA
 
 ## Publications 
 
