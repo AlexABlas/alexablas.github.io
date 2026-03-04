@@ -20,9 +20,9 @@ Contact me at [maa485@pitt.edu](maa485@pitt.edu).
 ## Publications 
 
 ### Book Chapters, Reviews, and Articles in Journals:  
-* “Entre el Original y el Ideal: análisis del documental *Kayqayá yakuchanchik – Sacsamarcapa yarqa aspiynin*”. In *Cuadernos de Responsabilidad Social Universitaria: Sacsamarca. Deontología y Lingüística y Literatura 2015, 2016, 2017*. Lima: Pontificia Universidad Católica del Perú, pp. 85-98, 2019\.   
-* “\#GeneracionBicentenario Pt. II: Fan Culture and Politics.” *Women in War and International Politics*, 2021\.  
-“Between the Sacred and the Profane: On Girls’ Culture in Lima.” *ReVista: Harvard Review of Latin America*. Vol. XXIII, No. 1, Nov. 23, 2023\.  
+* “Entre el Original y el Ideal: análisis del documental *Kayqayá yakuchanchik – Sacsamarcapa yarqa aspiynin*”. In *Cuadernos de Responsabilidad Social Universitaria: Sacsamarca. Deontología y Lingüística y Literatura 2015, 2016, 2017*. Lima: Pontificia Universidad Católica del Perú, pp. 85-98, 2019\. https://dars.pucp.edu.pe/wp-content/uploads/2019/11/cuaderno-rsu-sacsamarca2.pdf    
+* “\#GeneracionBicentenario Pt. II: Fan Culture and Politics.” *Women in War and International Politics*, 2021\. https://www.wiwip-kcl.com/generacionbicentenario-pt-2-fan-culture-and-politics 
+* “Between the Sacred and the Profane: On Girls’ Culture in Lima.” *ReVista: Harvard Review of Latin America*. Vol. XXIII, No. 1, Nov. 23, 2023\. https://revista.drclas.harvard.edu/between-the-sacred-and-the-profane-on-girls-culture-in-lima/ 
 * “Mujer y nación: adolescencias ‘periféricas’ en la obra de Nobuko Yoshiya y Gabriela Mistral.” *Revista Iberoamericana*. Vol. 90, No. 289, pp. 783–808, 2024\.  
 * “Voices Across Borders: The Queer and In-Between Female Peruvian Writers.” *ReVista: Harvard Review of Latin America*. “Spotlight: Perspectives in Times of Change,” Oct. 22, 2024\.    
 * “Black Women’s Music Videos: Towards a Critical Bibliography of One Black Film Feminism.” Reich, L., Blas, M. A., Bunker, et al. *Film Criticism*. Vol. 48, No. 2, 10, 2024\.  
