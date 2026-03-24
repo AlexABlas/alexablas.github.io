@@ -55,5 +55,5 @@ Contact me at [maa485@pitt.edu](maa485@pitt.edu).
 
 ## My links 
 
-[Click here to check my Linktree](https://linktr.ee/alex_a.blas)
-[Click here to check my Google Scholar site](https://scholar.google.com/citations?user=FnoFiKoAAAAJ&hl=en) 
+* [Click here to check my Linktree](https://linktr.ee/alex_a.blas)
+* [Click here to check my Google Scholar site](https://scholar.google.com/citations?user=FnoFiKoAAAAJ&hl=en) 
